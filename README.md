@@ -1,10 +1,10 @@
 # task-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Тестовое задание Менеджер задач. Реализован на Vue 3 и Vuex
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Посмотреть можно  [тут](https://dvvinfo.github.io/Task-Manager/).
 
 ## Project Setup
 
